@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     int version = 2;
+    String branch = "dev";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
