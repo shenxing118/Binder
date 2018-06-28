@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    int version = 2;
+    int version = 3;
     String branch = "dev";
 
     @Override
